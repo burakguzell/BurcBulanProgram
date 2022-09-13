@@ -1,24 +1,27 @@
 # Burc Bulan Program
-Koç Burcu : 21 Mart - 20 Nisan
 
-Boğa Burcu : 21 Nisan - 21 Mayıs
+Java'da koşullu ifadeler ile kullanıcının burcunu bulan programı yazınız.
 
-İkizler Burcu : 22 Mayıs - 22 Haziran
+**Koç Burcu :** 21 Mart - 20 Nisan
 
-Yengeç Burcu : 23 Haziran - 22 Temmuz
+**Boğa Burcu :** 21 Nisan - 21 Mayıs
 
-Aslan Burcu : 23 Temmuz - 22 Ağustos
+**İkizler Burcu :** 22 Mayıs - 22 Haziran
 
-Başak Burcu : 23 Ağustos - 22 Eylül
+**Yengeç Burcu :** 23 Haziran - 22 Temmuz
 
-Terazi Burcu : 23 Eylül - 22 Ekim
+**Aslan Burcu :** 23 Temmuz - 22 Ağustos
 
-Akrep Burcu : 23 Ekim - 21 Kasım
+**Başak Burcu :** 23 Ağustos - 22 Eylül
 
-Yay Burcu : 22 Kasım - 21 Aralık
+**Terazi Burcu :** 23 Eylül - 22 Ekim
 
-Oğlak Burcu : 22 Aralık - 21 Ocak
+**Akrep Burcu :** 23 Ekim - 21 Kasım
 
-Kova Burcu : 22 Ocak - 19 Şubat
+**Yay Burcu :** 22 Kasım - 21 Aralık
 
-Balık Burcu : 20 Şubat - 20 Mart
+**Oğlak Burcu :** 22 Aralık - 21 Ocak
+
+**Kova Burcu :** 22 Ocak - 19 Şubat
+
+**Balık Burcu :** 20 Şubat - 20 Mart
