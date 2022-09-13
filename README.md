@@ -1,6 +1,5 @@
 # Burc Bulan Program
-## Koç Burcu : 21 Mart - 20 Nisan
-
+Koç Burcu : 21 Mart - 20 Nisan
 Boğa Burcu : 21 Nisan - 21 Mayıs
 
 İkizler Burcu : 22 Mayıs - 22 Haziran
